@@ -1,5 +1,6 @@
 package org.example.arge;
 
+
 public class HybridCar extends CarSkeleton{
     private double avgKmPerLiter;
     private int batterySize;

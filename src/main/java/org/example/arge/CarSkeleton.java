@@ -1,5 +1,6 @@
 package org.example.arge;
 
+
 public class CarSkeleton {
 
     private String name;

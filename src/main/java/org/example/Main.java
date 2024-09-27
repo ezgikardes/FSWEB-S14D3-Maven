@@ -1,5 +1,4 @@
 package org.example;
-
 import org.example.company.Car;
 import org.example.company.Ford;
 import org.example.company.Holden;

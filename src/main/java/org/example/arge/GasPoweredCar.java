@@ -1,5 +1,6 @@
 package org.example.arge;
 
+
 public class GasPoweredCar extends CarSkeleton {
     private double avgKmPerLiter;
     private int cylinders;
